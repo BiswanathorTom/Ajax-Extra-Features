@@ -745,13 +745,13 @@ async def cb_handler(client: Client, query: CallbackQuery):
         await query.answer()
     elif query.data == "start":
         buttons = [[
-            InlineKeyboardButton('Our Channel', url='https://t.me/backup_678'),
-            InlineKeyboardButton('Our Group', url='https://t.me/worldofmovies_109')
+            InlineKeyboardButton('Our Channel', url='https://t.me/WOMBACKUP'),
+            InlineKeyboardButton('Our Group', url='https://t.me/WOMBWMOVIES')
             ],[      
              InlineKeyboardButton('About', callback_data='about'),
             InlineKeyboardButton('Help', callback_data='help')
             ],[
-            InlineKeyboardButton('Owner', url='https://t.me/mr_78907')
+            InlineKeyboardButton('Owner', url='https://t.me/ROYALDEEP01')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await query.message.edit_text(
