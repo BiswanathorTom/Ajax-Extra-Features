@@ -1,6 +1,6 @@
 class script(object):
-    START_TXT = """Hey Buddy,
-I am A Complete Package of your Entertainment 😜"""
+    START_TXT = """𝐇𝐞𝐲, {}
+𝐈 𝐀𝐦 𝐀 𝐂𝐨𝐦𝐩𝐥𝐞𝐭𝐞 𝐏𝐚𝐜𝐤𝐚𝐠𝐞 𝐨𝐟 𝐲𝐨𝐮𝐫 𝐄𝐧𝐭𝐞𝐫𝐭𝐚𝐢𝐧𝐦𝐞𝐧𝐭 🤪"""
     HELP_TXT = """𝙷𝙴𝚈 {}
 𝙷𝙴𝚁𝙴 𝙸𝚂 𝙼𝚈 𝙷𝙴𝙻𝙿 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂."""
     ABOUT_TXT = """<b>✮ 𝙼𝚈 𝙽𝙰𝙼𝙴: Cinemato-Bug-Bot</b>
